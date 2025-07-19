@@ -1,0 +1,10 @@
+text,language,label
+"I love this!",en,pos
+"यह बेकार था।",hi,neg
+"Pretty okay, nothing amazing.",en,neu
+"Je déteste ce service.",fr,neg
+"बहुत अच्छा लगा!",hi,pos
+"The food was decent.",en,neu
+"Terrible support!",en,neg
+"Service was excellent!",en,pos
+"Très bon endroit.",fr,pos

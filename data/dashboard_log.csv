@@ -1,0 +1,8 @@
+text,language,predicted_label
+"I love this!",en,pos
+"यह बेकार था।",hi,neg
+"Je déteste ce service.",fr,neg
+"It was confusing, frustrating, and tiring.",en,neg
+
+
+

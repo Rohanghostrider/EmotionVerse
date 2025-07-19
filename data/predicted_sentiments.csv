@@ -1,0 +1,4 @@
+text,true_label,predicted_label
+C'est incroyable!,pos,pos
+ये बिल्कुल बेकार था।,neg,pos
+Je ne suis pas content.,neg,neg

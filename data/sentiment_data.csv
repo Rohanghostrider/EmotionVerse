@@ -1,0 +1,13 @@
+text,language,label
+"I love this place!",en,pos
+"This was disappointing.",en,neg
+"Such a wonderful experience!",en,pos
+"I'll never come here again.",en,neg
+"यह अनुभव शानदार था।",hi,pos
+"मुझे यह अच्छा नहीं लगा।",hi,neg
+"बहुत अच्छा लगा यहाँ आकर।",hi,pos
+"ये बिल्कुल बेकार था।",hi,neg
+"C'est incroyable!",fr,pos
+"Je ne suis pas content.",fr,neg
+"J'adore cet endroit!",fr,pos
+"Je déteste ce service.",fr,neg
